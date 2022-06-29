@@ -8,10 +8,10 @@ tags: babel,only
 
 ```javascript
 env: {
-    production: {
-        only: ['app', 'libs', 'share'],
-        plugins: []
-    }
+  production: {
+    only: ['app', 'libs', 'share'],
+    plugins: []
+  }
 }
 ```
 
